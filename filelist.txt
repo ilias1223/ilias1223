@@ -1,0 +1,9 @@
+map{
+       alias "dm/SmallCity"
+       md5 "3355fadd4c78a4440fd5afce561d2386"
+       url "https://github.com/ilias1223/ilias1223/blob/main/SmallCity.pk3"
+}
+map{
+       alias "dm/dm_FallenVillage"
+       md5 "b698dd7c5fb847a3e2a82f24b0fda788"
+       url "https://github.com/ilias1223/ilias1223/blob/main/User-Stlo%20obj.pk3"
