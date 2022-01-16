@@ -7,3 +7,9 @@ map{
        alias "dm/dm_FallenVillage"
        md5 "b698dd7c5fb847a3e2a82f24b0fda788"
        url "https://github.com/ilias1223/ilias1223/blob/main/User-Stlo%20obj.pk3"
+}
+
+mod{
+       md5 "e847a902f642e3b3bb09a3e205f6145d"
+       url "https://github.com/ilias1223/ilias1223/blob/main/jv_bot01.pk3"
+}
